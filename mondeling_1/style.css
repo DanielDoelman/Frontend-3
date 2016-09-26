@@ -1,0 +1,108 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  margin: 0;
+}
+
+
+/* Header */
+header {
+  padding: 1.875em 0;
+  border-bottom: 0.375em solid #8cbd79;
+}
+header h1 {
+  text-align: center;
+  color: #333;
+  font-size: 2.250em;
+  font-weight: 700;
+  letter-spacing: -2px;
+  margin: 0.625em 0 0 0;
+}
+
+header h1 span {
+  margin-left: 1em;
+  margin-right: 1em;
+  color: #8cbd79;
+}
+
+header h2 {
+  color: #333;
+  font-size: 1em;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0;
+  text-align: center;
+}
+
+header h2 span {
+  margin-left: 0.5em;
+  margin-right: 0.5em;
+  color: #8cbd79;
+}
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #333;
+  shape-rendering: crispEdges;
+}
+
+.x.axis path {
+  display: none;
+}
+
+
+/* Main */
+main {
+  background-color: #fff;
+  padding: 50px;
+}
+
+main svg text {
+  font-size: 0.625em;
+}
+
+main svg .werk {
+  fill: #8cbd79;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+main svg .werk:hover {
+  fill: #79a368;
+}
+
+main svg .studie {
+  fill: #ffcc00;
+  -webkit-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
+}
+
+main svg .studie:hover {
+  fill: #e5b800;
+}
+
+main .domain {
+  fill: #ccc;
+}
+
+/* Footer */
+footer {
+  background-color: #8cbd79;
+  padding: 0.625em 0;
+}
+
+footer p {
+  color: #fff;
+  font-size: 1em;
+  font-weight: 700;
+  text-transform: uppercase;
+  margin: 0;
+  text-align: center;
+}

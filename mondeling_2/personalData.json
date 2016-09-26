@@ -1,0 +1,200 @@
+[
+ {
+   "Datum": "07-09-16",
+   "Dag": "Woensdag",
+   "Studie": 3,
+   "Werk": 6,
+   "Sport": 2,
+   "Overig": 6,
+   "Slapen": 7
+ },
+ {
+   "Datum": "08-09-16",
+   "Dag": "Donderdag",
+   "Studie": 1,
+   "Werk": 9,
+   "Sport": 0,
+   "Overig": 7,
+   "Slapen": 7
+ },
+ {
+   "Datum": "09-09-16",
+   "Dag": "Vrijdag",
+   "Studie": 0,
+   "Werk": 9,
+   "Sport": 0,
+   "Overig": 8,
+   "Slapen": 7
+ },
+ {
+   "Datum": "10-09-16",
+   "Dag": "Zaterdag",
+   "Studie": 2,
+   "Werk": 0,
+   "Sport": 3,
+   "Overig": 13,
+   "Slapen": 6
+ },
+ {
+   "Datum": "11-09-16",
+   "Dag": "Zondag",
+   "Studie": 3,
+   "Werk": 0,
+   "Sport": 0,
+   "Overig": 13,
+   "Slapen": 8
+ },
+ {
+   "Datum": "12-09-16",
+   "Dag": "Maandag",
+   "Studie": 2,
+   "Werk": 6,
+   "Sport": 1,
+   "Overig": 8,
+   "Slapen": 7
+ },
+ {
+   "Datum": "13-09-16",
+   "Dag": "Dinsdag",
+   "Studie": 1,
+   "Werk": 10,
+   "Sport": 0,
+   "Overig": 6,
+   "Slapen": 7
+ },
+ {
+   "Datum": "14-09-16",
+   "Dag": "Woensdag",
+   "Studie": 7,
+   "Werk": 4,
+   "Sport": 2,
+   "Overig": 5,
+   "Slapen": 6
+ },
+ {
+   "Datum": "15-09-16",
+   "Dag": "Donderdag",
+   "Studie": 2,
+   "Werk": 6,
+   "Sport": 0,
+   "Overig": 8,
+   "Slapen": 8
+ },
+ {
+   "Datum": "16-09-16",
+   "Dag": "Vrijdag",
+   "Studie": 0,
+   "Werk": 0,
+   "Sport": 0,
+   "Overig": 16,
+   "Slapen": 8
+ },
+ {
+   "Datum": "17-09-16",
+   "Dag": "Zaterdag",
+   "Studie": 0,
+   "Werk": 0,
+   "Sport": 3,
+   "Overig": 11,
+   "Slapen": 10
+ },
+ {
+   "Datum": "18-09-16",
+   "Dag": "Zondag",
+   "Studie": 3,
+   "Werk": 0,
+   "Sport": 0,
+   "Overig": 13,
+   "Slapen": 8
+ },
+ {
+   "Datum": "19-09-16",
+   "Dag": "Maandag",
+   "Studie": 6,
+   "Werk": 6,
+   "Sport": 1,
+   "Overig": 4,
+   "Slapen": 7
+ },
+ {
+   "Datum": "20-09-16",
+   "Dag": "Dinsdag",
+   "Studie": 3,
+   "Werk": 9,
+   "Sport": 0,
+   "Overig": 5,
+   "Slapen": 7
+ },
+ {
+   "Datum": "21-09-16",
+   "Dag": "Woensdag",
+   "Studie": 0,
+   "Werk": 9,
+   "Sport": 2,
+   "Overig": 6,
+   "Slapen": 7
+ },
+ {
+   "Datum": "22-09-16",
+   "Dag": "Donderdag",
+   "Studie": 2,
+   "Werk": 9,
+   "Sport": 0,
+   "Overig": 5,
+   "Slapen": 8
+ },
+ {
+   "Datum": "23-09-16",
+   "Dag": "Vrijdag",
+   "Studie": 0,
+   "Werk": 8,
+   "Sport": 0,
+   "Overig": 9,
+   "Slapen": 7
+ },
+ {
+   "Datum": "24-09-16",
+   "Dag": "Zaterdag",
+   "Studie": 0,
+   "Werk": 0,
+   "Sport": 3,
+   "Overig": 12,
+   "Slapen": 9
+ },
+ {
+   "Datum": "25-09-16",
+   "Dag": "Zondag",
+   "Studie": 1,
+   "Werk": 0,
+   "Sport": 0,
+   "Overig": 12,
+   "Slapen": 11
+ },
+ {
+   "Datum": "26-09-16",
+   "Dag": "Maandag",
+   "Studie": 4,
+   "Werk": 5,
+   "Sport": 1,
+   "Overig": 6,
+   "Slapen": 8
+ },
+ {
+   "Datum": "27-09-16",
+   "Dag": "Dinsdag",
+   "Studie": 1,
+   "Werk": 9,
+   "Sport": 0,
+   "Overig": 7,
+   "Slapen": 7
+ },
+ {
+   "Datum": "28-09-16",
+   "Dag": "Woensdag",
+   "Studie": 4,
+   "Werk": 9,
+   "Sport": 2,
+   "Overig": 3,
+   "Slapen": 6
+ }
+]
